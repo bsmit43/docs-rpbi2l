@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-36nici.twinpower.com.br/sitemap.xml
